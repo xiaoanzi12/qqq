@@ -1,0 +1,45 @@
+# Keil µVision Project Files
+*.uvopt
+*.uvoptx
+*.uvgui
+*.uvguix
+*.bak
+*.dep
+*.crf
+*.d
+*.o
+*.lst
+*.lnp
+*.map
+*.build_log.htm
+*.htm
+
+# Output directories
+Objects/
+Listings/
+Output/
+DebugConfig/
+
+# Generated files
+*.axf
+*.hex
+*.bin
+*.elf
+*.sct
+*.scvd
+
+# Backup and temporary files
+*~
+*.tmp
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# IDE specific
+*.user
+*.suo
+*.ncb
+*.opt
+.vscode/
+.idea/
